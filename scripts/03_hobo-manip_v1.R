@@ -7,9 +7,9 @@
 # Author: Elias Bowman
 # Date: 2023-08-011
 # Version: 1.0
+#######################
+### Prepare relevant functions for hobo dataframe work
 ##################################################
-
-### Prepare relevant functions for hobo dataframe work ###
 ## Function to return all HOBO Data for a plot
 get_hobo_plot <- function(plot.title){
   temp_hobo_data <- filter(hobo_data, plot == plot.title)
@@ -25,16 +25,19 @@ get_hobo_day <- function(df, date){
     filter(date.time >= start_timestamp & date.time <= end_timestamp)
 }
 
-### Fill in a summary data for hobo data ###
-## Generate for each plot: 
+#######################
+### Fill in a summary data for hobo data
+## Generate for each instance: 
 # Mean Daily Temperatures
 # Average Daily High Temperatures
 # Daily Max Temperature
 # Daily Min Temperature
 # Average Daily Temperature Range
+# Time above Threshold Temp
+#######################
+## Dataframe containing summary statistics of mean daily variables sorted by plot
+##################################################
 hb.sum_by.plot <- data.frame()
-
-## Dataframe containing summary statistics of mean daily variables
 hb.sum_by.plot <- hobo_data %>%
   group_by(plot, date) %>%
   summarize(
@@ -55,8 +58,9 @@ hb.sum_by.plot <- hobo_data %>%
   ungroup() %>%
   mutate(plot_treatment = substr(plot, 1, 3))
 
-
-## Dataframe holding data specifically averaged over treatment groups
+#######################
+## Dataframe containing summary statistics of mean daily variables sorted by treatment group
+##################################################
 # Not the most useful or necessary table, but created initially just for assessment
 hb.sum_by.treatment <- hb.sum_by.plot %>%
   group_by(plot_treatment) %>%
@@ -68,7 +72,9 @@ hb.sum_by.treatment <- hb.sum_by.plot %>%
     count = n()
   )
 
-## Dataframe with temperature information formatted for entire days
+#######################
+## Dataframe containing summary statistics of mean daily variables sorted by date
+##################################################
 # Different than hobo_summary, as it deals with hourly data
 # includes daily: max temp, min temp, temp range, mean temp, and standard deviation of temp
 hb.sum_by.day <- hobo_data %>%
@@ -85,9 +91,9 @@ hb.sum_by.day <- hobo_data %>%
   mutate(plot_treatment = substr(plot, 1, 3))
 
 
-
+#######################
 ### Hobo interval data
-
+##################################################
 daily_summary <- hobo_data %>%
   group_by(plot, date) %>%
   summarize(
@@ -117,7 +123,7 @@ interval_summary_test <- daily_summary %>%
   ungroup() %>%
   mutate()
 
-view(interval_summary_test)
+# view(interval_summary_test)
 
 # interval_summary <- daily_summary %>%
 #   left_join(interval_data %>% select(inter, interval_length, plot), by = "plot") %>%
