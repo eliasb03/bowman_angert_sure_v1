@@ -1,0 +1,264 @@
+date,plot,plant_id,raceme_id,raceme_length,budding,mature,post_flowering,missing,fruiting,code,notes,notes2,finished,pollination_plant,previously finished
+22-Jun,CON1,2,1,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,CON1,2,2,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,CON1,2,3,6.5,1,2,0,18,0,,,,n,,n
+22-Jun,CON1,3,1,4,0,0,0,18,0,,,,y,,n
+22-Jun,CON1,3,2,4,0,0,0,18,0,,,,y,,n
+22-Jun,CON1,3,3,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,CON1,3,4,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,CON1,3,5,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,CON1,3,6,6,0,0,1,15,0,,,,y,,n
+22-Jun,CON1,1,1,7,0,0,0,35,0,,,,y,,n
+22-Jun,CON1,1,2,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,CON1,1,3,1,0,0,0,3,0,,,,y,,n
+22-Jun,CON1,1,4,6.5,15,1,0,1,0,,,,n,,n
+22-Jun,CON2,1,1,1.5,0,0,0,6,0,,,,y,,n
+22-Jun,CON2,1,2,1,0,0,1,2,0,,,,y,,n
+22-Jun,CON2,1,3,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,n,,n
+22-Jun,CON2,2,1,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,CON2,3,1,8,20,5,0,5,0,,,,n,y,n
+22-Jun,CON2,3,2,1.5,NA,NA,NA,NA,NA,bud,Budding Stage,,n,y,n
+22-Jun,CON2,3,3,7.5,16,2,0,6,0,,,,n,y,n
+22-Jun,CON2,3,4,2.5,3,0,0,10,0,,,,n,y,n
+22-Jun,CON2,3,5,2,0,1,0,6,0,abt,Aborted Tip,,n,y,n
+22-Jun,CON2,3,6,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,y,n
+22-Jun,CON2,3,7,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,y,n
+22-Jun,CON2,3,8,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,y,n
+22-Jun,CON2,4,1,3.5,2,0,0,11,0,,,,n,,n
+22-Jun,CON2,4,2,8,1,0,0,32,0,,,,n,,n
+22-Jun,CON2,4,3,13.5,8,2,1,36,0,,,,n,,n
+22-Jun,CON2,4,4,7,0,1,2,27,0,,,,n,,n
+22-Jun,CON2,4,5,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,CON2,4,6,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,CON2,4,7,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,CON2,4,8,9.5,1,9,4,22,1,,,,n,,n
+22-Jun,CON2,4,9,5,0,0,3,10,1,,,,y,,n
+22-Jun,CON2,4,10,11.5,0,0,1,34,4,,,,y,,n
+22-Jun,CON2,4,11,3.5,0,0,2,5,2,,,,y,,n
+22-Jun,CON2,4,12,7.5,14,1,2,0,0,,,,n,,n
+22-Jun,CON2,4,13,10.5,0,2,0,29,0,,,,n,,n
+22-Jun,CON3,3,1,4.5,20,0,0,0,0,,,,n,,n
+22-Jun,CON3,3,2,8,14,9,0,5,0,,,,n,,n
+22-Jun,CON3,3,3,6.5,21,4,0,1,0,,,,n,,n
+22-Jun,CON3,3,4,4,9,4,0,0,0,abt,Aborted Tip,,n,,n
+22-Jun,CON3,3,5,2,0,0,15,0,0,,,,y,,n
+22-Jun,CON3,3,6,4,5,6,0,4,0,,,,n,,n
+22-Jun,CON3,3,7,8.5,16,15,0,6,0,,,,n,,n
+22-Jun,CON3,3,8,7,11,12,0,4,0,,,,n,,n
+22-Jun,CON3,3,9,8,7,14,2,3,0,,,,n,,n
+22-Jun,CON3,3,10,8,18,8,0,1,0,,,,n,,n
+22-Jun,CON3,3,11,7,9,11,1,3,0,,,,n,,n
+22-Jun,CON3,3,12,2,2,2,12,1,0,,,,n,,n
+22-Jun,CON3,3,13,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,n,,n
+22-Jun,CON3,3,14,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,n,,n
+22-Jun,CON3,2,1,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,n,,n
+22-Jun,CON3,1,1,5,10,6,0,0,0,,,,n,,n
+22-Jun,CON3,1,2,5,11,5,1,0,0,,,,n,,n
+22-Jun,CON3,1,3,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,CON3,1,4,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,CON3,1,5,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,CON3,1,6,2.5,5,0,7,0,0,,,,n,,n
+22-Jun,CON3,1,7,4,0,4,0,10,0,,,,n,,n
+22-Jun,CON3,1,8,6,7,10,0,2,0,,,,n,,n
+22-Jun,CON3,1,9,6.5,18,1,0,6,0,,,,n,,n
+22-Jun,CON4,2,1,5.5,11,1,0,1,0,,,,n,,n
+22-Jun,CON4,2,2,6,10,2,0,0,0,,,,n,,n
+22-Jun,CON4,2,3,5,7,2,0,0,0,,,,n,,n
+22-Jun,CON4,2,4,4,5,1,0,3,0,,,,n,,n
+22-Jun,CON4,2,5,6,12,2,0,3,0,,,,n,,n
+22-Jun,CON4,2,6,4,2,1,0,3,0,,,,n,,n
+22-Jun,CON4,2,7,7,10,2,0,6,0,,,,n,,n
+22-Jun,CON4,2,8,6.5,7,2,0,0,0,,,,n,,n
+22-Jun,CON4,2,9,6,9,2,1,0,0,,,,n,,n
+22-Jun,CON4,5,1,4,3,4,0,1,0,,,,n,,n
+22-Jun,CON4,4,1,4,3,4,0,1,0,,,,n,y,n
+22-Jun,CON4,3,1,5,3,3,0,10,0,,,,n,,n
+22-Jun,CON4,3,2,13,2,5,0,14,4,,,,n,,n
+22-Jun,CON5,3,1,11,0,3,1,22,3,,,,n,,n
+22-Jun,CON5,3,2,10.5,0,8,1,14,1,,,,n,,n
+22-Jun,CON5,3,3,17,0,22,0,2,0,,,,n,,n
+22-Jun,CON5,3,4,10,0,3,7,2,0,,,,n,,n
+22-Jun,CON5,3,5,13,0,23,0,4,0,,,,n,,n
+22-Jun,CON5,3,6,2,1,0,1,7,0,,1 super low flower,,n,,n
+22-Jun,CON5,3,7,10,0,12,2,5,0,,,,n,,n
+22-Jun,CON5,3,8,9,0,5,1,15,3,,,,n,,n
+22-Jun,CON5,3,9,2,0,2,1,3,0,,,,n,,n
+22-Jun,CON5,3,10,10,0,9,1,7,0,,,,n,,n
+22-Jun,CON5,3,11,8.5,0,0,2,15,0,,,,y,,n
+22-Jun,CON5,3,12,0.5,0,1,0,0,0,abt,Aborted Tip,,n,,n
+22-Jun,CON5,3,13,2,0,1,0,4,0,,,,n,,n
+22-Jun,CON5,3,14,7,0,9,4,2,5,,,,n,,n
+22-Jun,CON5,3,15,12,0,7,0,14,5,,,,n,,n
+22-Jun,CON5,3,16,1,0,1,0,0,0,abt,Aborted Tip,,n,,n
+22-Jun,CON5,3,17,6,0,5,2,1,3,,,,n,,n
+22-Jun,CON5,3,18,5,0,5,2,13,0,,,,n,,n
+22-Jun,CON5,2,1,0,1,7,0,1,6,,,,n,,n
+22-Jun,CON5,2,2,1.5,0,1,0,3,0,abt,Aborted Tip,,n,,n
+22-Jun,CON5,1,1,12.5,0,17,3,10,2,,,,n,,n
+22-Jun,CON5,1,2,13.5,3,23,0,6,0,,,,n,,n
+22-Jun,CON5,1,3,16,2,27,0,4,0,,,,n,,n
+22-Jun,CON5,1,4,2,11,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,CON5,1,5,5.5,0,6,3,4,0,,,,n,,n
+22-Jun,CON5,1,6,6.5,0,6,1,3,0,,,,n,,n
+22-Jun,CON5,1,7,14,2,25,1,0,0,,,,n,,n
+22-Jun,CON5,1,8,14.5,3,18,0,7,0,,,,n,,n
+22-Jun,CON6,1,1,0,1,0,0,6,0,,Truncated/Lost Tip,,n,y,n
+22-Jun,CON6,1,2,6.5,NA,NA,NA,NA,NA,bud,Budding Stage,,n,y,n
+22-Jun,CON6,1,3,7,9,13,2,4,0,,,,n,y,n
+22-Jun,CON6,3,1,5.5,NA,NA,NA,NA,NA,bud,Budding stage,,n,,n
+22-Jun,CON6,3,2,4.5,NA,NA,NA,NA,NA,,,,n,,n
+22-Jun,CON6,3,3,12,22,18,0,4,0,,,,n,,n
+22-Jun,CON6,3,4,3.5,3,4,6,4,0,,,,n,,n
+22-Jun,CON6,4,1,12,20,12,1,5,2,,,,n,,n
+22-Jun,CON6,4,2,2.5,11,0,2,0,0,,,,n,,n
+22-Jun,CON6,4,3,6,35,1,0,2,0,,,,n,,n
+22-Jun,CON6,4,4,16,29,19,0,5,2,,,,n,,n
+22-Jun,CON6,4,5,11,16,10,1,15,2,,,,n,,n
+22-Jun,CON6,2,1,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,CON7,2,1,1,NA,NA,NA,NA,NA,,Budding Phase,,n,y,n
+22-Jun,CON7,2,2,6,7,5,2,25,0,,,,n,y,n
+22-Jun,CON7,2,3,16,9,2,2,38,1,,,,n,y,n
+22-Jun,CON7,2,4,10.5,3,3,7,14,0,,Swollen,,n,y,n
+22-Jun,CON7,2,5,9.5,8,5,3,14,1,,,,n,y,n
+22-Jun,CON7,2,6,1,NA,NA,NA,NA,NA,,Budding Phase,,n,y,n
+22-Jun,CON7,2,7,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,y,n
+22-Jun,CON7,2,8,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,y,n
+22-Jun,CON7,2,9,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,y,n
+22-Jun,CON7,2,10,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,y,n
+22-Jun,CON7,2,11,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,y,n
+22-Jun,CON7,2,12,1.5,1,0,0,3,0,,,,n,y,n
+22-Jun,CON7,2,13,2.5,0,0,4,12,0,,,,y,y,n
+22-Jun,CON7,2,14,7,5,3,3,10,0,,2 Swollen,,n,y,n
+22-Jun,CON7,2,15,9,0,16,2,10,2,,,,n,y,n
+22-Jun,CON7,2,16,8,11,3,5,6,0,,,,n,y,n
+22-Jun,CON7,2,17,9,2,5,0,11,1,,,,n,y,n
+22-Jun,CON7,2,18,9,5,3,1,23,0,,,,n,y,n
+22-Jun,CON7,2,19,12,6,3,1,19,4,,,,n,y,n
+22-Jun,CON7,2,20,8,6,8,0,15,3,,,,n,y,n
+22-Jun,CON7,2,21,12.5,5,2,1,29,0,,,,n,y,n
+22-Jun,CON7,4,1,10,0,0,0,0,7,,,,y,,n
+22-Jun,CON7,4,2,12,0,0,0,0,9,,,,y,,n
+22-Jun,CON7,4,3,4,0,0,0,0,1,,,,y,,n
+22-Jun,CON7,4,4,9,16,7,0,13,8,,,,n,,n
+22-Jun,CON7,4,5,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,CON7,4,6,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,CON7,4,7,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,CON7,4,8,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,CON7,4,9,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,CON7,4,10,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,CON7,3,1,7,1,8,5,24,4,,,,n,,n
+22-Jun,CON7,3,2,5,7,10,1,3,0,,,,n,,n
+22-Jun,CON7,1,1,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,2,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,3,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,4,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,5,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,6,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,7,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,8,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,9,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,10,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,11,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,12,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,13,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,14,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,15,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,16,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,CON7,1,17,Missing,Missing,Missing,Missing,Missing,Missing,,Missing Data for whole plant,,Missing,,n
+22-Jun,OTC1,1,1,4,0,8,4,3,0,,1 purple banner,,n,,n
+22-Jun,OTC1,1,2,10.5,0,0,0,10,18,,aphids,,y,,n
+22-Jun,OTC1,1,3,7,0,2,2,18,5,,,,n,,n
+22-Jun,OTC1,1,4,3,0,5,3,8,0,,,,n,,n
+22-Jun,OTC1,1,5,8,0,0,7,14,14,,Raceme stalk broken,,y,,n
+22-Jun,OTC1,1,6,5.5,0,0,14,10,6,,,,y,,n
+22-Jun,OTC1,1,7,7.5,0,0,0,8,10,,,,y,,n
+22-Jun,OTC1,1,8,7.5,0,4,7,11,7,,,,n,,n
+22-Jun,OTC1,1,9,6.5,0,3,3,10,6,,,,n,,n
+22-Jun,OTC1,1,10,8,1,10,1,12,4,,,,n,,n
+22-Jun,OTC1,1,11,10,0,17,1,12,2,,,,n,,n
+22-Jun,OTC1,2,1,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,OTC1,2,2,9,16,17,0,1,0,,,,n,,n
+22-Jun,OTC1,3,1,2,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,OTC1,3,2,10.5,0,10,1,6,15,,,,n,,n
+22-Jun,OTC2,1,1,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC2,1,2,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC2,1,3,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC2,1,4,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC2,2,1,9,0,2,3,7,7,,,,n,,n
+22-Jun,OTC2,2,2,4,14,0,0,2,0,,,,n,,n
+22-Jun,OTC2,2,3,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC2,2,4,8.5,3,1,0,25,0,,,,n,,n
+22-Jun,OTC2,2,5,3.5,0,2,1,12,0,,,,n,,n
+22-Jun,OTC2,2,6,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC2,2,7,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC2,2,8,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC2,2,9,4,0,2,2,8,0,,,,n,,n
+22-Jun,OTC2,2,10,4,0,0,4,23,0,,,,y,,n
+22-Jun,OTC2,2,11,9,13,5,0,4,0,,,,n,,n
+22-Jun,OTC3,3,1,5,17,0,0,4,0,,,,n,,n
+22-Jun,OTC3,3,2,5.5,14,6,0,5,0,,,,n,,n
+22-Jun,OTC3,3,3,8,25,7,0,0,0,,,,n,,n
+22-Jun,OTC3,3,4,10,12,17,0,4,0,,,,n,,n
+22-Jun,OTC3,3,5,5.5,13,11,0,4,0,,,,n,,n
+22-Jun,OTC3,1,1,7,10,4,0,3,0,,Spiders in bag,,n,,n
+22-Jun,OTC3,4,1,6,12,11,0,1,0,,,,n,y,n
+22-Jun,OTC3,2,1,NA,NA,NA,NA,NA,NA,,Budding Phase,,n,,n
+22-Jun,OTC4,2,1,7,0,6,6,4,0,,,,n,,n
+22-Jun,OTC4,2,2,9.5,7,3,3,7,0,,,,n,,n
+22-Jun,OTC4,2,3,10,6,9,1,3,0,,,,n,,n
+22-Jun,OTC4,1,1,5.5,3,5,0,2,0,,,,n,,n
+22-Jun,OTC4,1,2,1,0,1,0,1,0,abt,Aborted Tip,,n,,n
+22-Jun,OTC4,1,3,3,0,3,0,3,0,abt,Aborted Tip,,n,,n
+22-Jun,OTC4,1,4,0.5,0,0,1,3,0,,,,y,,n
+22-Jun,OTC4,1,5,10.5,0,2,13,6,3,,,,n,,n
+22-Jun,OTC4,1,6,7.5,1,9,2,3,0,,,,n,,n
+22-Jun,OTC4,1,7,6.5,1,10,0,3,0,,,,n,,n
+22-Jun,OTC4,1,8,3.5,0,6,0,3,0,,,,n,,n
+22-Jun,OTC4,1,9,3,0,6,2,3,0,,,,n,,n
+22-Jun,OTC4,1,10,9,0,5,2,11,0,,,,n,,n
+22-Jun,OTC4,3,1,7,16,7,0,1,0,,Larvae infestation,,n,y,n
+22-Jun,OTC4,3,2,3,1,2,8,0,0,abr,Aborted Raceme,,n,y,n
+22-Jun,OTC4,3,3,7,0,2,1,3,7,,,,n,y,n
+22-Jun,OTC4,3,4,12,2,6,5,6,7,,,,n,y,n
+22-Jun,OTC4,4,1,6,9,9,0,0,0,,,,n,,n
+22-Jun,OTC5,1,1,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC5,1,2,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC5,3,1,7.5,4,10,0,0,0,,,,n,,n
+22-Jun,OTC5,4,1,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC5,4,2,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC5,4,3,4,4,1,0,3,0,,,,n,,n
+22-Jun,OTC5,4,4,7.5,27,4,0,0,0,,,,n,,n
+22-Jun,OTC5,4,5,13.5,26,12,0,1,0,,,,n,,n
+22-Jun,OTC6,3,1,7,31,4,0,0,0,,,,n,,n
+22-Jun,OTC6,3,2,9,0,1,0,33,4,,,,n,,n
+22-Jun,OTC6,3,3,7.5,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC6,3,4,6.5,0,0,0,39,0,,,,y,,n
+22-Jun,OTC6,3,5,11,5,3,2,27,0,,Swollen,,n,,n
+22-Jun,OTC6,3,6,,,,,,,abr,Aborted Raceme,,y,,n
+22-Jun,OTC6,3,7,1.5,0,0,0,12,0,,,,y,,n
+22-Jun,OTC6,3,8,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC6,2,1,12,0,6,0,17,1,,,,n,,n
+22-Jun,OTC6,2,2,15,0,3,0,26,9,,,,n,,n
+22-Jun,OTC6,2,3,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC6,2,4,16,0,8,0,15,3,,,,n,,n
+22-Jun,OTC6,2,5,11,3,0,0,22,0,,,,n,,n
+22-Jun,OTC6,2,6,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC6,2,7,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC6,2,8,15,0,1,0,37,0,,,,n,,n
+22-Jun,OTC6,2,9,13,0,4,0,29,1,,,,n,,n
+22-Jun,OTC6,2,10,NA,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC6,2,11,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC7,1,1,6,22,2,0,1,0,,,,n,,n
+22-Jun,OTC7,1,2,7,22,3,0,3,0,,,,n,,n
+22-Jun,OTC7,1,3,3,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC7,1,4,5.5,25,2,0,0,0,,,,n,,n
+22-Jun,OTC7,1,5,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC7,3,1,2,2,0,0,12,0,,,,n,,n
+22-Jun,OTC7,3,2,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC7,3,3,4,NA,NA,NA,NA,NA,abr,Aborted Raceme,,y,,n
+22-Jun,OTC7,4,1,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC7,4,2,NA,NA,NA,NA,NA,NA,bud,Budding Stage,,n,,n
+22-Jun,OTC7,4,3,10.5,31,13,0,0,0,,,,n,,n
+22-Jun,OTC7,4,4,9.5,15,11,0,1,0,,,,n,,n
+22-Jun,OTC7,2,1,5,24,1,0,0,0,,swollen,,n,y,n
+22-Jun,OTC7,2,2,8,17,3,0,2,0,,,,n,y,n

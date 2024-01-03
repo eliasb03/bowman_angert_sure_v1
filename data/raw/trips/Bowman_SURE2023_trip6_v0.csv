@@ -1,0 +1,7 @@
+date,plot,plant_id,raceme_id,raceme_length,budding,mature,post_flowering,missing,fruiting,code,notes,notes2,finished,pollination_plant,previously finished
+01-Aug,OTC7,3,1,2,0,0,0,7,0,,,,y,,n
+01-Aug,OTC7,3,2,3.5,0,0,0,12,0,,,,y,,n
+01-Aug,OTC7,3,3,1,0,0,0,6,0,aborted tip,abt,,y,n,n
+01-Aug,OTC7,4,1,19,0,0,0,29,0,,,,y,,n
+01-Aug,OTC7,4,2,14.5,0,0,0,22,1,,,,y,,n
+01-Aug,OTC5,4,1,14,0,0,0,29,0,,,,y,,n

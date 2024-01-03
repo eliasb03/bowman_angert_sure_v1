@@ -1,0 +1,23 @@
+date,plot,plant_id,raceme_id,raceme_length,budding,mature,post_flowering,missing,fruiting,finished,code,notes,notes2,pollination_plant,previously finished
+21-Jul,CON7,4,1,5,0,0,0,10,5,y,abt,abt,plant marked as finished included if raceme # off last time,n,n
+21-Jul,CON6,3,1,13,0,0,0,21,2,y,abt,abt,,n,n
+21-Jul,CON6,3,2,6,0,0,0,12,1,y,,,,n,n
+21-Jul,CON6,3,3,2,0,0,0,7,0,y,abt,abt,,n,n
+21-Jul,CON6,4,1,2.5,0,0,0,7,0,y,abt,abt,,n,n
+21-Jul,OTC3,1,1,4,0,0,0,10,0,y,,plant finished,,n,n
+21-Jul,OTC7,1,1,6,0,0,0,19,1,y,,plant finished,,n,n
+21-Jul,OTC7,1,2,9,0,0,2,17,0,y,,plant finished,,n,n
+21-Jul,OTC7,1,3,5,0,0,0,24,2,y,,plant finished,,n,n
+21-Jul,OTC7,3,1,1,,,,,,y,abr,abr,,n,n
+21-Jul,OTC7,3,2,4,0,3,7,4,0,n,,,,n,n
+21-Jul,OTC7,4,1,10,0,0,0,13,0,n,,"finished technically, but not marked - in bag w/ open flowering stem",,n,n
+21-Jul,OTC7,4,2,15,0,5,0,14,1,n,,,,n,n
+21-Jul,OTC5,4,1,17,0,0,0,46,1,y,abt,abt,aphid city,n,n
+21-Jul,OTC5,4,2,7,0,0,0,20,0,y,,,,n,n
+21-Jul,OTC5,4,3,11,0,0,1,19,5,y,,,,n,n
+21-Jul,OTC5,4,4,9.5,0,0,1,16,6,y,,,,n,n
+21-Jul,OTC5,4,5,7,0,0,0,14,4,y,abt,abt,,n,n
+21-Jul,OTC5,4,6,15,0,8,1,23,0,n,abt,abt,,n,n
+21-Jul,OTC5,4,7,14,0,0,0,30,0,y,abt,abt,aphids,n,n
+21-Jul,OTC6,2,1,11,0,0,0,19,1,y,abt,abt,,n,n
+21-Jul,CON2,4,1,6.5,,0,0,20,1,y,abt,abt,,n,n

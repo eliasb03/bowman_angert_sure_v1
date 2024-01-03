@@ -1,0 +1,36 @@
+Want scripts/code blocks to do the following
+- load packages
+- import data
+- tidy and prepare data
+- analyses
+  - 
+  - 
+  - 
+  - 
+
+concept for naming scripts:
+“##_name_v#” 
+## - indicates the order that the scripts should be run in
+“name” - is a descriptor
+“v#” - indicates the version number
+ex: 00_packages_v1.r 01_dataclean_v1.r
+
+Things to consider
+! Is "max temp" the best indicator of heat stress
+  - Maybe "time above x" is better
+  - time OTCs spent x deviations above the control mean or something like that
+! HOBOs
+  - need to remove extreme temperature spikes
+! Wanted to figure out the phenological index
+! How do I work with the temporal angle of my plant data
+
+Analysis
+Treatments
+ - something along the lines of a two sample t test for temp stats of OTC vs CON
+
+
+Linear Modelling
+Number Missing ~ Max Temp
+- Need to make a dataframe that includes 
+
+

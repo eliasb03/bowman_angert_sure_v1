@@ -104,3 +104,10 @@ hobo_data$plot <- gsub("-", "", hobo_data$plot)
 # only current issue is the extreme temperature spikes
 
 write_csv(hobo_data, "C:/Users/elias/OneDrive/Documents/Angert SURE 2023/Bowman_SURE_2023/data/processed/hobo_data.csv")
+# 
+# OTC_plot <- hobo_data %>%
+#   filter(plot == "OTC5") %>%
+#   ggplot(aes(x = date.time, y = ground_temp)) +  # Set x and y aesthetics
+#   geom_line() +                       # Create a line plot
+#   theme_minimal()
+# OTC_plot
