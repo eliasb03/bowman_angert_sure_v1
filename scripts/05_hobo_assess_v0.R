@@ -3,7 +3,7 @@
 ##################################################
 # Script: 05_hobo_assess_v0.R
 # Purpose: This code is used to start analyzing HOBO data, seeing if the temperature means, mean temp maxs,
-#   and other variables are signifcantly different between treatment groups
+#   and other variables are significantly different between treatment groups
 # Author: Elias Bowman
 # Date: 2023-08-14
 # Version: 0.0
