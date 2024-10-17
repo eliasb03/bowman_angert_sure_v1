@@ -9,6 +9,13 @@
 # Version: 0.0
 ##################################################
 
+## Set script working directory
+setwd("C:/Users/elias/OneDrive/Documents/Angert SURE 2023/Bowman_SURE_2023")
+
+## Set script wide variables
+current_year <- as.integer(format(Sys.Date(), "%Y"))
+
+## Import Packages
 library(tidyverse)
 library(ggplot2)
 library(dplyr)
@@ -24,5 +31,3 @@ library(car)
 library(lubridate)
 library(lme4)
 
-
-setwd("C:/Users/elias/OneDrive/Documents/Angert SURE 2023/Bowman_SURE_2023")
