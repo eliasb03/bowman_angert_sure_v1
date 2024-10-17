@@ -260,3 +260,11 @@ interval_data <- interval_data %>%
  select(inter, interval_length, plot, plant_id, start_date, end_date, starts_with("interval"), flower_count1, flower_count2) %>%
  filter(!is.na(interval_budding_sum))
 
+# Summary ####
+# We now have a number of data files for the data from the project
+# mega_data
+# trip_data
+# plant_data
+# plot_data
+# interval_data
+# pollinated_data
